@@ -104,7 +104,7 @@ sales-analysis/
 │
 │── docs/
 │   ├── Documentation.pdf
-│   └── presentation.pdf
+│   
 │
 │── README.md
 ```
